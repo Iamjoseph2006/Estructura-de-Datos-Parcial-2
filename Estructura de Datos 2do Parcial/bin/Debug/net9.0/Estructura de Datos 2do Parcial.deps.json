@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Estructura de Datos 2do Parcial/1.0.0": {
+        "runtime": {
+          "Estructura de Datos 2do Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estructura de Datos 2do Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
